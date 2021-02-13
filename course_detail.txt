@@ -26,7 +26,7 @@ Ditributed Env
 Learning Outcomes
 Setup Git in your system
 Implement the git workflow 
-Craete and fork repositories on GitHub
+Create and fork repositories on GitHub
 Create branches and resolve merge conflicts
 Work on a project in collaboration with your colleagues using Bitbucket
 Create and manage complex projects GitLab
